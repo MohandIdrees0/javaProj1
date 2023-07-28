@@ -1,0 +1,37 @@
+.root{
+	-fx-background-image: url('1165654.jpg');
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+.button {
+    -fx-font-size: 16px;
+    -fx-color: #11999E;
+}
+.button:pressed {
+    -fx-background-color: green;
+}
+#title {
+	
+    -fx-text-fill: #73BBC9;
+    -fx-alignment: center;
+    -fx-font-size: 30px;
+}
+#filters{
+	-fx-text-fill: #73BBC9;
+    -fx-alignment: center;
+    -fx-font-size: 15px;
+}
+#LEFTVERT{
+	-fx-background-color: Black;
+}
+#rv{
+	-fx-background-color: #537188;
+}
+#edit{
+	-fx-color: White;
+	-fx-font-size: 16px;
+	
+}
+#admin-sname{
+	-fx-alignment: Left;
+}

@@ -1,0 +1,18 @@
+.button {
+    -fx-font-size: 16px;
+    -fx-color: #11999E;
+}
+.button:pressed {
+    -fx-background-color: green;
+}
+.root{
+	-fx-background-image: url('adminPage.jpg');
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+#TITLE {
+	
+    -fx-text-fill: Black;
+    -fx-alignment: center;
+    -fx-font-size: 30px;
+}

@@ -1,0 +1,18 @@
+.root {
+    -fx-background-image: url('r.jpg');
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
+
+.button {
+    -fx-font-size: 16px;
+    -fx-color: #11999E;
+}
+.button:pressed {
+    -fx-background-color: #ff0000; /* Red color when button is pressed */
+}
+.label{
+    -fx-text-fill: #11999E;
+    -fx-alignment: center;
+    -fx-font-size: 60px;
+}
